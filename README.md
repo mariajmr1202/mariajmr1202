@@ -10,7 +10,7 @@
 
 ```javascript
 const mariaj = {
-  code: [Javascript, HTML, CSS, Java, C, SQL],
+  code: [Javascript, Python, HTML, CSS, Java, C, SQL],
   tools: [React, Node, PostgreSQL, MySQL],
   passions: ["Data science", "Web development"].
   challenge: "I’m currently learning data science"
