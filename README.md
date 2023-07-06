@@ -1,6 +1,6 @@
 <h2> Hi, I'm Maria J ✨ </h2>
 <img align='right' src="https://pbs.twimg.com/profile_images/1401661536150736900/7JorpkEO_400x400.jpg" width="230">
-<p><em>Computer Engineering Student at <a href="https://www.ucab.edu.ve/">UCAB Guayana</a>💻</br>Platzi's Student💚 </em></p>
+<p><em>Software Engineer - <a href="https://www.ucab.edu.ve/">UCAB</a>💻</br></em></p>
 
 [![Twitter: rosesbymj](https://img.shields.io/twitter/follow/rosesbymj)](https://twitter.com/rosesbymj)
 [![Linkedin: mariajmr1202](https://img.shields.io/badge/-mariajmr1202-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariajmr1202/)](https://www.linkedin.com/in/mariajmr1202/)
