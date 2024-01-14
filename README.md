@@ -2,7 +2,6 @@
 <img align='right' src="https://pbs.twimg.com/profile_images/1401661536150736900/7JorpkEO_400x400.jpg" width="230">
 <p><em>Software Engineer - <a href="https://www.ucab.edu.ve/">UCAB</a>💻</br></em></p>
 
-[![Twitter: rosesbymj](https://img.shields.io/twitter/follow/rosesbymj)](https://twitter.com/rosesbymj)
 [![Linkedin: mariajmr1202](https://img.shields.io/badge/-mariajmr1202-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariajmr1202/)](https://www.linkedin.com/in/mariajmr1202/)
 [![GitHub mariajmr1202](https://img.shields.io/github/followers/mariajmr1202?label=follow&style=social)](https://github.com/mariajmr1202)
 
